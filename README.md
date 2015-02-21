@@ -21,7 +21,7 @@ Supporting Organisation:
 
 ### Less is more
 
-The maximum size of printed object is 8.5 x 8.5 x 8.5cm , which is relatively small than many other 3D printer. However, it is already large enough for making things like figure and toy.  
+The maximum size of printed object is 8 x 8 x 8cm , which is relatively small than many other 3D printer. However, it is already large enough for making things like figure and toy.  
 
 The gain from the trade off is the cost down of material and maintenance. Take out components for making large printed object , the design become simple and lean. The core material is acrylic sheet and connected by metal screw. Therefore , the cost of material and building can be minimized. The expect bill of material is just around HKD $2,300/ USD $300. 
 
@@ -44,5 +44,5 @@ The case of Tinyboy uses acrylic plane as the main material. Individual parts ca
 * Wan Leung Wong
 * Haggen So
 * Henry Law
-* Ben Lau (Former)
+* Ben Lau (Honourable)
 
