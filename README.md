@@ -35,7 +35,7 @@ The case of Tinyboy uses acrylic plane as the main material. Individual parts ca
 
 ### Specification
 * Size: 15cm(W) x 15cm(D) x 22cm(H) (excl. filament holder)  
-* Printed size : 8.5cm x 8.5cm x 8.5cm  
+* Printed size : 8cm x 8cm x 8cm  
 * 1.75mm filament / 0.4mm hotend  
 
 
