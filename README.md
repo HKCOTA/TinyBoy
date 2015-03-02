@@ -11,6 +11,8 @@ A small , easy to build , affordable machine**
 
 TinyBoy is an open design 3D printer. The size is just 15 x 15 x 22cm , even smaller than most of the 2D paper printer. Therefore , it fit for regular computer desk. The design aims as an entry-level machine for student and newbie to learn 3D modeling technology and train for creative thinking.
 
+The project was started at 2011, and the first public demo was at the COSCUP, Taiwan 2013. [http://www.slideshare.net/noaizumi1/ss-25011267](http://www.slideshare.net/noaizumi1/ss-25011267)
+
 More Detail: [TinyBoy Website](http://tinyboy.net)
 FaceBook: [https://www.facebook.com/tinyboy3dp](https://www.facebook.com/tinyboy3dp)
 
@@ -41,6 +43,7 @@ The case of Tinyboy uses acrylic plane as the main material. Individual parts ca
 
 ### Contributors
 * Parker Leung (Chief Designer)
+* TC Liu
 * Wan Leung Wong
 * Haggen So
 * Henry Law
