@@ -1,17 +1,6 @@
 # TinyBoy
 A 3D Printer for Kids.
 
-```html
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-  <input type="hidden" name="cmd" value="_s-xclick">
-  <input type="hidden" name="hosted_button_id" value="BPX5J8LM4Z8SL">
-  <input type="hidden" name="amount" value="10.00">
-  <input type="hidden" name="item_name" value="Donation on Supporting TinyBoy"
-  <input type="image" src="https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_92x26.png" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
-  <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
-</form>
-```
-
 TinyBoy by [Leung Chi-Wang (Parker Leung)](http://tinyboy.net) is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.  
 To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/).  
 Based on a work at [https://github.com/HKCOTA/TinyBoy](https://github.com/HKCOTA/TinyBoy).
