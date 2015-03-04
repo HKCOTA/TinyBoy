@@ -13,7 +13,7 @@ TinyBoy is an open design 3D printer. The size is just 15 x 15 x 22cm , even sma
 
 The project was started at 2011, and the first public demo was at the COSCUP, Taiwan 2013. [http://www.slideshare.net/noaizumi1/ss-25011267](http://www.slideshare.net/noaizumi1/ss-25011267)
 
-More Detail: [TinyBoy Website](http://tinyboy.net)
+More Detail: [TinyBoy Website](http://www.tinyboy.net)
 FaceBook: [https://www.facebook.com/tinyboy3dp](https://www.facebook.com/tinyboy3dp)
 
 Supporting Organisation:
