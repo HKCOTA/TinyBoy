@@ -1,7 +1,7 @@
 # TinyBoy
 A 3D Printer for Kids.
 
-TinyBoy by [Leung Chi-Wang (Parker Leung)](http://tinyboy.net) is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.  
+TinyBoy by [Leung Chi-Wang (Parker Leung)](http://www.tinyboy3dp.net) is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.  
 To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/).  
 Based on a work at [https://github.com/HKCOTA/TinyBoy](https://github.com/HKCOTA/TinyBoy).
 
@@ -11,9 +11,11 @@ A small , easy to build , affordable machine**
 
 TinyBoy is an open design 3D printer. The size is just 15 x 15 x 22cm , even smaller than most of the 2D paper printer. Therefore , it fit for regular computer desk. The design aims as an entry-level machine for student and newbie to learn 3D modeling technology and train for creative thinking.
 
-The project was started at 2011, and the first public demo was at the COSCUP, Taiwan 2013. [http://www.slideshare.net/noaizumi1/ss-25011267](http://www.slideshare.net/noaizumi1/ss-25011267)
+The project was started at 2011 by a secondary school teacher, Parker Leung, who was teaching Design and Technology, and the first public demo was at the COSCUP, Taiwan 2013. [http://www.slideshare.net/noaizumi1/ss-25011267](http://www.slideshare.net/noaizumi1/ss-25011267)
 
-More Detail: [TinyBoy Website](http://www.tinyboy.net)
+TinyBoy won the First prize of the Innovation of the Best Teaching tools of the 29th China Adolescents Science & Technology Innovation Contest, 2014 and the Best Innovation (Innovative Technology) Bronze Award of the Hong Kong ICT Awards 2015.
+
+More Detail: [TinyBoy Website](http://www.tinyboy3dp.net)
 FaceBook: [https://www.facebook.com/tinyboy3dp](https://www.facebook.com/tinyboy3dp)
 
 Supporting Organisation:
