@@ -32,7 +32,8 @@ Supporting Organisation:
 
 The maximum size of printed object is 8 x 8 x 8cm , which is relatively small than many other 3D printer. However, it is already large enough for making things like figure and toy.  
 
-The gain from the trade off is the cost down of material and maintenance. Take out components for making large printed object , the design become simple and lean. The core material is acrylic sheet and connected by metal screw. Therefore , the cost of material and building can be minimized. The expect bill of material is just around HKD $2,300/ USD $300. 
+The gain from the trade off is the cost down of material and maintenance. Take out components for making large printed object , the design become simple and lean. The core material is acrylic sheet and connected by metal screw. Therefore , the cost of material and building can be minimized. 
+The expect bill of material is just around USD$130 (2013) HKD $2,300/ USD $300 (cost at mid 2014 - mid 2015) ~USD$200 (Thanks Hobby King).
 
 ### Easy to build / Learning by making
 
