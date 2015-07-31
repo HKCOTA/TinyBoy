@@ -11,7 +11,14 @@ A small , easy to build , affordable machine**
 
 TinyBoy is an open design 3D printer. The size is just 15 x 15 x 22cm , even smaller than most of the 2D paper printer. Therefore , it fit for regular computer desk. The design aims as an entry-level machine for student and newbie to learn 3D modeling technology and train for creative thinking.
 
-The project was started at 2011, and the first public demo was at the COSCUP, Taiwan 2013. [http://www.slideshare.net/noaizumi1/ss-25011267](http://www.slideshare.net/noaizumi1/ss-25011267)
+The project was started at 2011, and the first public demo was shown at the COSCUP, Taiwan 2013. [http://www.slideshare.net/noaizumi1/ss-25011267](http://www.slideshare.net/noaizumi1/ss-25011267)
+
+TinyBoy won the First prize of the Innovation of the Best Teaching tools of the 29th China Adolescents Science & Technology Innovation Contest, 2014 (中国第29届全国青少年科技创新大赛 教师教具发明 一等奖) and the Best Innovation (Innovative Technology) Bronze Award of the Hong Kong ICT Awards 2015 (2105香港資訊及通訊科技獎:最佳創新(科技創新)獎銅獎).
+
+TinyBoy is an open design 3D printer and you can get the details on our Github account (http://github.com/HKCOTA/TinyBoy) which is licensed under a Creative Commons Attribution-ShareAlike 4.0 International LicenseCC by SA.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
+
+Tinyboy 3D Printing Education Solution is a CCMF Grantees & Alumni of Hong Kong Cyberport Management Company Limited.
 
 More Detail: [TinyBoy Website](http://www.tinyboy.net)
 FaceBook: [https://www.facebook.com/tinyboy3dp](https://www.facebook.com/tinyboy3dp)
