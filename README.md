@@ -5,6 +5,8 @@ TinyBoy by [Leung Chi-Wang (Parker Leung)](http://www.tinyboy.net) is licensed u
 To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/).  
 Based on a work at [https://github.com/HKCOTA/TinyBoy](https://github.com/HKCOTA/TinyBoy).
 
+The design comes ABSOLUTELY NO WARRANTY!
+
 ### What is TinyBoy?
 **TinyBoy - Open Design 3D Printer for Student  
 A small , easy to build , affordable machine**
