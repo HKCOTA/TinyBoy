@@ -1,11 +1,18 @@
 # TinyBoy
 A 3D Printer for Kids.
 
+This repo are stored all the Blue Prints and design diagrams.
+The TinyBoy design comes ABSOLUTELY NO WARRANTY!
+
 TinyBoy by [Leung Chi-Wang (Parker Leung)](http://www.tinyboy.net) is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.  
 To view a copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/).  
 Based on a work at [https://github.com/HKCOTA/TinyBoy](https://github.com/HKCOTA/TinyBoy).
 
-The design comes ABSOLUTELY NO WARRANTY!
+CC-BY-SA means:
+ 1. Licensees may copy, distribute, display and perform the work and make derivative works based on it only if they give the author or licensor the credits in the manner specified by these.
+ 2. Licensees may distribute derivative works only under a license identical to the license that governs the original work. 
+
+The TinyBoy design comes ABSOLUTELY NO WARRANTY!
 
 ### What is TinyBoy?
 **TinyBoy - Open Design 3D Printer for Student  
