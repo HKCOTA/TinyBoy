@@ -34,8 +34,8 @@ Link: http://www.thingiverse.com/thing:880110
 <br><br>
 * fastener 2.5mm x 22
 <br><br>
-* stepper_28 x 3
-* stepper_42 (for extruder) x 1
+* stepper_28 NEMA11 x 3
+* stepper_42 NEMA17 (for extruder) x 1
 * pulley MXL 16T x 2
 * coupling 3mm x 3mm x 1
 <br><br>
